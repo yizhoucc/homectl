@@ -27,6 +27,8 @@ download worker, depends on time and internet usage
 ## relay
 ### esp8266  
 ### raspi
+used also as relay center when computer in sleep  
+trigger to wake computer via internet  
 ### adruino
 
 ## sensor
